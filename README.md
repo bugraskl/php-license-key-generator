@@ -7,4 +7,4 @@ Usage
 
 Output
 
-`97D5-RE9K-066F-PDKL-ANUR`
+`97D5-RE9K-066F-PDKL`
